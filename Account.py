@@ -6,3 +6,5 @@ class Account():
         self.secret_key = sec
 
         self.balance = None
+
+        self.coin_balances = {}
